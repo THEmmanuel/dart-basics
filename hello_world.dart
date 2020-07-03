@@ -1,4 +1,4 @@
-void manin(){
+void main(){
   print ('hello world!');
 }
 
